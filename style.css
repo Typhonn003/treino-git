@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    background-color: azure;
+}
+
+li {
+    list-style: none;
+    display: inline;
+}
+
+a {
+    color: #000000;
+}
+
+a:hover {
+    color: blue;
+}
